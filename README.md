@@ -1,7 +1,7 @@
 - 👋 Hi, I’m layan
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning about machine language and python
-- 📫 How to reach me? purespiritv@gmail.com
+- 📫 How to reach me? leoalrazinv@gmail.com
 
 
 <!---
