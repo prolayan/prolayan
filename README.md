@@ -5,7 +5,7 @@
 </div>
 
 ###
-
+- 📫 How to reach me? leoalrazinv@gmail.com
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left"<br><br>-<br>-<br>- </p>
+<p align="left"<br>I’m layan<br>-👀 I’m interested in AI<br>-I’m currently learning about machine language and python<br>- </p>
 
 ###
 
@@ -66,9 +66,7 @@
 </div>
 
 ###
-- 👋 Hi, I’m layan
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning about machine language and python
+
 - 📫 How to reach me? leoalrazinv@gmail.com
 
 
